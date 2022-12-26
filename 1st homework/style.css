@@ -1,0 +1,69 @@
+
+
+#img_family{
+    width: 200px;
+    height: 150px;
+}
+
+h2{
+    font-style: oblique;
+    font-weight: bold;
+}
+
+p{
+    font-size: large;
+}
+
+#img_work{
+    width: 200px;
+    height: 150px;
+}
+
+#img_friends{
+    width: 200px;
+    height: 150px;
+}
+
+#img_hobbies{
+    width: 200px;
+    height: 150px;
+}
+
+#block1{
+    border: 4px inset red;
+    margin: 40px 30px 40px 30px;
+    padding: 20px;
+    background-color: yellow;
+}
+
+#block2{
+    border: 3px inset black;
+    margin: 40px 30px 40px 30px;
+    padding: 20px;
+    background-color: #43C6DB;
+}
+
+#block3{
+    border: 2px inset fuchsia;
+    margin: 40px 30px 40px 30px;
+    padding: 20px;
+    background-color: #FFAA00;
+}
+
+#block4{
+border: 3px solid black;
+margin: 40px 30px 40px 30px;
+padding: 10px;
+text-align: center;
+}
+
+h1{
+text-align: center;
+font-style: oblique;
+}
+
+
+#icon_img{
+    width: 30px;
+    height: 30px;
+}
